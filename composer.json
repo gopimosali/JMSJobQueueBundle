@@ -7,7 +7,7 @@
     "license":      "Apache-2.0",
     "replace": {
         "jms/job-queue-bundle": "*",
-        "zolex/job-queue-bundle": "*",
+        "zolex/job-queue-bundle": "*"
     },
     "authors": [
         {
